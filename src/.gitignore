@@ -2,6 +2,10 @@ parameters.json
 
 .scan_*/
 
+# Secret files
+.env
+.env.*
+
 # OS files
 .DS_Store
 Thumbs.db
